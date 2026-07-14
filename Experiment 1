@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread(r"C:\Users\Thanushma\Desktop\image.jpg")
+img = cv2.imread(r"C:\Users\Navya\Desktop\image.jpg")
 
 cv2.imshow("Original Image", img)
 
